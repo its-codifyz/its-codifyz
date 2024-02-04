@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @its-codifyz
 - 👀 I’m interested in Frontend Development .
-- 🌱 I’m currently learning JS.
+- 🌱 I’m currently learning JS and CSS.
 - 💞️ I’m looking to collaborate.
 - 📫 Reach me at itscodifyz@gmail.com
 
